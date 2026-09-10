@@ -1,0 +1,6 @@
+{
+  "name": "BGS NA LINHA",
+  "description": "Controle financeiro pessoal moderno e profissional com gestão de gastos, receitas, metas, cartões e planejamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
